@@ -7,8 +7,8 @@ using namespace std;
 
 int main()
 {
-    float z, x, y;
-    cout << "Input X" << endl;
+    float z, b, y;
+    cout << "Input b" << endl;
     cin >> x;
     cout << "Input Y" << endl;
     cin >> y;
